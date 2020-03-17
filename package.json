@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1",
+    "next": "^9.3.0",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "shelljs": "^0.8.3"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "export": "next export",
+    "preexport": "npm run build",
+    "start": "serve out"
+  }
+}

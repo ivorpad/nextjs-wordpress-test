@@ -4,7 +4,7 @@
     "next": "^9.3.0",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
-    "shelljs": "^0.8.3"
+    "shelljs": "^0.8.5"
   },
   "scripts": {
     "dev": "next",
